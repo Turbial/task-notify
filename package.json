@@ -1,0 +1,9 @@
+{
+  "name": "task-notify",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Supabase Realtime task notification daemon for TASBORG agents",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
